@@ -1,6 +1,6 @@
 # Salary_Predictiion
-Hi I made this project during internship with ShapeAI
-Predicting the salary of employees in Baltimore using Linear Regression Model.
+Hi I made this project during internship with ShapeAI.
+<br><br>Predicting the salary of employees in Baltimore using Linear Regression Model.
 ### Outline
 Import Datasets,
 Data Cleaning and Data Preparation,
